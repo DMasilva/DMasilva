@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Building+Scalable+Systems;Focused+on+Quality+%26+Automation" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DMasilva&label=Profile%2views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ### 🚀 About Me
