@@ -16,8 +16,8 @@
 
 ### 🛠️ Tech Stack
 ```bash
-Languages:   Java | Python | JavaScript
-Frameworks:  Spring | React | Node.js
+Languages:   Java | Python | JavaScript | Ruby | C#
+Frameworks:  Spring | React | Node.js | Rails | Typescript
 Tools:       Git | Docker | Linux | CI/CD
 
 ```
