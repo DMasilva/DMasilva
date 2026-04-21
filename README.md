@@ -1,17 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hey 👋, I'm David</h1>
+<h3 align="center">Software Engineer | Problem Solver | Builder</h3>
 
-<!--
-**DMasilva/DMasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://shorturl.at/MW023" width="150" style="border-radius: 50%;" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![masilva](https://shorturl.at/MW023)
+### 🚀 About Me
+- 🎓 Master's in Computer Science  
+- 💻 Background in IT & Software Engineering  
+- 🔬 Interested in **test automation, software quality, and scalable systems**  
+- 🌍 Based in the U.S.  
+
+---
+
+### 🛠️ Tech Stack
+```bash
+Languages:   Java | Python | JavaScript | Ruby 
+Frameworks:  Spring | React | Node.js | Rails | Typescript
+Tools:       Git | Docker | Linux | CI/CD
