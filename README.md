@@ -1,9 +1,7 @@
 <h1 align="center">Hey 👋, I'm David</h1>
 <h3 align="center">Software Engineer | Problem Solver | Builder</h3>
 
-<p align="center">
-  <img src="https://shorturl.at/MW023" width="150" style="border-radius: 50%;" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DMasilva&show_icons=true&theme=tokyonight&hide_border=true" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMasilva&layout=compact&theme=tokyonight&hide_border=true" height="160"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=DMasilva&theme=tokyonight&hide_border=true" /> </p>
 
 ---
 
