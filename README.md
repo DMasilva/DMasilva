@@ -19,16 +19,3 @@
 Languages:   Java | Python | JavaScript | Ruby | C#
 Frameworks:  Spring | React | Node.js | Rails | Typescript
 Tools:       Git | Docker | Linux | CI/CD
-
-```
-### 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DMasilva&show_icons=true&theme=tokyonight&hide_border=true" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMasilva&layout=compact&theme=tokyonight&hide_border=true" height="160"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=DMasilva&theme=tokyonight&hide_border=true" /> </p>
-
-
-🔥 Featured Projects
-🚧 Test Amplification Research
-Exploring automated techniques to improve software testing coverage and effectiveness
-⚙️ Backend Systems
-Scalable APIs and system design using modern frameworks
-🤖 Automation Tools
-Building tools to streamline development workflows
